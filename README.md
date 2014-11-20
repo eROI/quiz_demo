@@ -1,4 +1,4 @@
-Create your very own Buzzfeed style quiz
+Create your very own interactive quiz
 ========================================
 Read the full tutorial on [eROI.com](http://www.eroi.com/).
 
