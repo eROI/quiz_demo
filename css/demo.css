@@ -1,0 +1,23 @@
+/* Form Styling */
+label {
+	width:100%;
+	margin:0 auto 10px;
+	padding: 10px;
+	min-height: 45px;
+	border:2px solid #4f4e4e;
+	color:#4f4e4e;
+}
+
+label:hover {
+	background: rgba(255,255,0, 0.5);
+}
+
+/* Custom Checkboxes */
+.radio {
+  background: url(../images/radio.png) no-repeat top left;
+  clear: left;
+  display: block;
+  float: left;
+  height: 19px;
+  width: 29px;  
+}
