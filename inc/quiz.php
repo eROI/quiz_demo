@@ -47,6 +47,8 @@ foreach ($array as $i => $value) {
     }
 }
 
+$var = sort($str);
+
 // Retrieve crew_member, crew_position, crew_img and crew_bio from crew table based on $category
 $query = "SELECT result FROM quiz_map WHERE category_result = '$str' LIMIT 1";
 $result = mysql_query($query);
