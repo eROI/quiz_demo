@@ -1,6 +1,6 @@
 Create your very own interactive quiz
 ========================================
-Read the full tutorial on [eROI.com](http://www.eroi.com/).
+
 
 Tools Needed
 -------
